@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Beer Advisor</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string-array name="lightRecomendation">
+        <item>Best Wheat: Allagash White</item>
+    </string-array>
+    <string-array name="amberRecomendation">
+        <item>Jack Amber</item>
+        <item>Red Moose</item>
+    </string-array>
+
+    <string-array name="brownRecomendation">
+        <item>West Sixth Brewing Co Smithtown Brown</item>
+        <item>Surly Bender (85)</item>
+    </string-array>
+
+    <string-array name="darkRecomendation">
+        <item> Club colombia Negra</item>
+    </string-array>
+</resources>
